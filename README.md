@@ -12,3 +12,8 @@ l = float(22) / 7 * r * r
 k = 2 * (float(22) / 7) * r
 print("luas(L)Lingkaran :" + str(l))
 print("Keliling (K) Lingkaran :" + str(k))
+
+* Output
+masukan jari-jari: 25
+luas Lingkaran :1964.2857142857142
+Keliling Lingkaran :157.14285714285714
